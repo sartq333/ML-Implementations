@@ -1,4 +1,4 @@
-# ML-Paper-Implementations
+# ML-Implementations
 This repository has been inspired from [this](https://github.com/shreyansh26/ML-Paper-Implementations).
 
 Also planning to add my implementation of various models and topics here from the tutorials/concepts present in the books which I read and mini weekend projects related to ML. 
